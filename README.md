@@ -10,7 +10,7 @@ Desde la configuración inicial de las entidades libro, autor, empleado y socio 
 > ## Tenoclogía y Lenguajes utilizados:
 - FrameWork DJANGO
 - Python
-- Jinga2
+- Jinja2
 - HTML/Bootstrap
 - SQLite3
 - Git
